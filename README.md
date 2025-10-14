@@ -46,4 +46,4 @@ On [Campus Raseborg](https://maps.app.goo.gl/dwzLH9y1yt7LfucQ9)
 <img width="345" height="336" alt="gis_day" src="https://github.com/user-attachments/assets/2ca9645d-5f7c-45fd-94e7-aa5be2400dbc" />
 
 ## Organizers
-<img width="2313" height="511" alt="organizers" src="https://github.com/user-attachments/assets/02d6c6e6-b117-456b-a914-73f684eb845c" />
+<img width="1313" height="511" alt="organizers" src="https://github.com/user-attachments/assets/02d6c6e6-b117-456b-a914-73f684eb845c" />
