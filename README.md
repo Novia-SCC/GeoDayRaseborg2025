@@ -16,14 +16,14 @@ On [Campus Raseborg](https://maps.app.goo.gl/dwzLH9y1yt7LfucQ9)
 
 10:00 - 10:15 Coffee break (included) <br />
 
-10:15 - 12:00 Guest lectures on spatial data in diverse domains <br /> 
-+ 10:15 - Gaming with Tobias Björkskog - Novia UAS - XXX
-+ 10:30 - BIM with Anders Hermund - Danish Academy - XXX
-+ 10:45 - BIS with Henrik Saari - SYKE - RYTHI - Built environment information system
-+ 11:00 - Seafaring with Iiro Törmä - Novia UAS - 3D Briefing Tool for shipping
+10:15 - 12:00 Guest lectures on spatial data in diverse domains such as <br /> 
++ 10:15 - BIM with Anders Hermund - Royal Danish Academy - XXX
++ 10:30 - BIS with Henrik Saari - SYKE - RYTHI - Built environment information system
++ 10:45 - Seafaring with Iiro Törmä - Novia UAS - 3D Briefing Tool for shipping
++ 11:00 - AR with Tobias Björkskog - Novia UAS - XXX
 + 11:15 - Agriculture with XXX
 + 11:30 - Forestry with XXX
-+ 11:45 - Environmental sampling with Nicolas-Xavier Geilfus - University of Helsinki
++ 11:45 - Environmental sampling with Nicolas-Xavier Geilfus - University of Helsinki - XXX
 
 12:00 - 13:00 Lunch break (not included but great places near-by: [Villa Smakhus](https://www.villasmakhus.fi/sv/), [Rastachef](https://www.facebook.com/rastachefvegetariankitchen/) or [Cafferie](https://www.facebook.com/cafferieekenas/?locale=fi_FI))<br />
   
