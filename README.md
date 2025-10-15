@@ -22,7 +22,7 @@ On [Campus Raseborg](https://maps.app.goo.gl/dwzLH9y1yt7LfucQ9)
 + 10:45 - Seafaring with Iiro Törmä - Novia UAS - 3D Briefing Tool for shipping
 + 11:00 - AR with Tobias Björkskog - Novia UAS - XXX
 + 11:15 - Agriculture with XXX
-+ 11:30 - Forestry with XXX
++ 11:30 - Forestry with Romi Rancken - Novia UAS - Case Västerby
 + 11:45 - Environmental sampling with Nicolas-Xavier Geilfus - University of Helsinki - XXX
 
 12:00 - 13:00 Lunch break (not included but great places near-by: [Villa Smakhus](https://www.villasmakhus.fi/sv/), [Rastachef](https://www.facebook.com/rastachefvegetariankitchen/) or [Cafferie](https://www.facebook.com/cafferieekenas/?locale=fi_FI))<br />
