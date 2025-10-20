@@ -9,21 +9,21 @@ On [Campus Raseborg](https://maps.app.goo.gl/dwzLH9y1yt7LfucQ9)
 ## Schedule
 
 ### 09:00 - 14:00 Dedicated program in English
-09:00 - 10:00 Guest lectures on spatial data <br />
-+ 9:00 - XXX                  - GISPO                   - Consulting with spatial data
-+ 9:20 - Faris Alsuhail       - Location Innovation Hub - Continuous education with spatial data
-+ 9:40 - Lena Hallin-Pihlatie - National Land Survey    - National spatial data provider: data production and applications<br />
+09:00 - 10:20 Guest lectures on spatial data in environment and structural engineering <br />
++ 9:00 - Agriculture with XXX
++ 9:15 - Forestry with Romi Rancken - Novia UAS - Case Västerby 
++ 9:30 - Environmental sampling with Nicolas-Xavier Geilfus - University of Helsinki - XXX<br />
++ 9:45 - BIM with Anders Hermund - Royal Danish Academy - XXX
++ 10:00 - BIS with Henrik Saari - SYKE - RYTHI - Built environment information system
+  
+10:20 - 10:40 Coffee break (included) <br />
 
-10:00 - 10:15 Coffee break (included) <br />
-
-10:15 - 12:00 Guest lectures on spatial data in diverse domains such as <br /> 
-+ 10:15 - BIM with Anders Hermund - Royal Danish Academy - XXX
-+ 10:30 - BIS with Henrik Saari - SYKE - RYTHI - Built environment information system
+10:45 - 12:00 Guest lectures on spatial data in literally any other domains! <br />
 + 10:45 - Seafaring with Iiro Törmä - Novia UAS - 3D Briefing Tool for shipping
 + 11:00 - AR with Tobias Björkskog - Novia UAS - XXX
-+ 11:15 - Agriculture with XXX
-+ 11:30 - Forestry with Romi Rancken - Novia UAS - Case Västerby
-+ 11:45 - Environmental sampling with Nicolas-Xavier Geilfus - University of Helsinki - XXX
++ 11:15 - XXX - GISPO - Consulting with spatial data
++ 11:30 - Faris Alsuhail- Location Innovation Hub - Continuous education with spatial data
++ 11:45 - Lena Hallin-Pihlatie - National Land Survey    - National spatial data provider: data production and applications
 
 12:00 - 13:00 Lunch break (not included but great places near-by: [Villa Smakhus](https://www.villasmakhus.fi/sv/), [Rastachef](https://www.facebook.com/rastachefvegetariankitchen/) or [Cafferie](https://www.facebook.com/cafferieekenas/?locale=fi_FI))<br />
   
