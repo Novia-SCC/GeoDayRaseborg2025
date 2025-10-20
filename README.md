@@ -27,7 +27,7 @@ On [Campus Raseborg](https://maps.app.goo.gl/dwzLH9y1yt7LfucQ9)
 
 12:00 - 13:00 Lunch break (not included but great places near-by: [Villa Smakhus](https://www.villasmakhus.fi/sv/), [Rastachef](https://www.facebook.com/rastachefvegetariankitchen/) or [Cafferie](https://www.facebook.com/cafferieekenas/?locale=fi_FI))<br />
   
-13:00 - 14:00 Geospatial systems students seminar<br />
+### 13:00 - 14:00 Geospatial systems students seminar in English<br />
 + 13:00 - Aurelie Noel - Opening statement - Geospatial systems team leader
 + 13:15 - Senuri Ambagalage - Environmental monitoring with bird surveys - Bachelor in [Sustainable Coastal Management](https://www.novia.fi/en/study/study/bioeconomy/bachelor-of-natural-resources-sustainable-coastal-management/) 
 + 13:30 - Andreas Otterbeck - Habitat modelling of Caspian terns - [Researcher](https://www.novia.fi/en/rdi/our-projects/predatorhanteringens-inverkan-pa-havsfaglar-i-ostersjon) 
