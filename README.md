@@ -43,7 +43,7 @@ On [Campus Raseborg](https://maps.app.goo.gl/dwzLH9y1yt7LfucQ9)
 + Posters about spatial data in use in our programs
 
 ## Registration
-<img width="345" height="336" alt="gis_day" src="https://github.com/user-attachments/assets/1dfda9cd-c517-4f86-8a92-212794260523" />
+<img width="345" height="336" alt="gis_day" src="https://github.com/user-attachments/assets/61bd574c-7539-44b5-adbd-e894f369da6f" />
 
 ## Organizers
 <img width="780" height="180" alt="organizers" src="https://github.com/user-attachments/assets/3a94fef6-4113-4250-a8e8-416068fa0eef" />
