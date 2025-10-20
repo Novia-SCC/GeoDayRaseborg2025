@@ -3,13 +3,16 @@ The wonderful world of spatial information <br />
 November 20th 2025
 > Come for the program, stay for the people
 
+Spatial data are now collected by anyone, from anywhere, in real time, shared to the world via social media and cloud services and used almost instantaneously by anybody else. This creates a plethora of opportunities such as virtual reality and the building of digital twins designing an entire space from the comfort of your chair, or automation of tasks with artificial intelligence deciding where and when to seed your oat field in the spring. But it also brings challenges linked to privacy and ethical guidelines, as we now can be anywhere and see everything through others that share anything, all the time - what can be trusted? In August 2025, Tim Walz, Governor for the State of Minnesota, USA mentioned during a plenary session about effective governance - “You (decision-makers) are creating change in a massive way” – “We have got to get the literacy on geographic and GIS out to the broader public so that we can make sure that that (effective governance) happens.” Spreading awareness of the power held by spatial data is our responsibility and it concerns all of us in order to be resilient partners in the not-so-far future. 
+Participate to the GeoDay organized by Novia [spatial competence centre](https://www.novia.fi/en/scc/).    
+
 ## Venue
 On [Campus Raseborg](https://maps.app.goo.gl/dwzLH9y1yt7LfucQ9)
 
 ## Schedule
 
-### 09:00 - 14:00 Dedicated program in English
-09:00 - 10:20 Guest lectures on spatial data in environment and structural engineering <br />
+### 09:00 - 12:00 Guest lectures in English
+09:00 - 10:20 Spatial data in environment and structural engineering <br />
 + 9:00 - Agriculture with XXX
 + 9:15 - Forestry with Romi Rancken - Novia UAS - Case Västerby 
 + 9:30 - Environmental sampling with Nicolas-Xavier Geilfus - University of Helsinki - XXX<br />
@@ -18,7 +21,7 @@ On [Campus Raseborg](https://maps.app.goo.gl/dwzLH9y1yt7LfucQ9)
   
 10:20 - 10:40 Coffee break (included) <br />
 
-10:45 - 12:00 Guest lectures on spatial data in literally any other domains! <br />
+10:45 - 12:00 Spatial data in literally any other domains! <br />
 + 10:45 - Seafaring with Iiro Törmä - Novia UAS - 3D Briefing Tool for shipping
 + 11:00 - AR with Tobias Björkskog - Novia UAS - XXX
 + 11:15 - XXX - GISPO - Consulting with spatial data
@@ -41,6 +44,8 @@ On [Campus Raseborg](https://maps.app.goo.gl/dwzLH9y1yt7LfucQ9)
 + Exhibition of old maps from Ekenäs
 + Exhibition of old surveying tools
 + Posters about spatial data in use in our programs
+
+> In a time of accelerated changes, “geography needs to be promoted for sustainability” (Fu, 2020) and resilience – we know it, now you will too.
 
 ## Registration
 <img width="345" height="336" alt="gis_day" src="https://github.com/user-attachments/assets/61bd574c-7539-44b5-adbd-e894f369da6f" />
