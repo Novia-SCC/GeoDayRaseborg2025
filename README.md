@@ -4,7 +4,8 @@ November 20th 2025
 > Come for the program, stay for the people
 
 Spatial data are now collected by anyone, from anywhere, in real time, shared to the world via social media and cloud services and used almost instantaneously by anybody else. This creates a plethora of opportunities such as virtual reality and the building of digital twins designing an entire space from the comfort of your chair, or automation of tasks with artificial intelligence deciding where and when to seed your oat field in the spring. But it also brings challenges linked to privacy and ethical guidelines, as we now can be anywhere and see everything through others that share anything, all the time - what can be trusted? In August 2025, Tim Walz, Governor for the State of Minnesota, USA mentioned during a plenary session about effective governance - “You (decision-makers) are creating change in a massive way” – “We have got to get the literacy on geographic and GIS out to the broader public so that we can make sure that that (effective governance) happens.” Spreading awareness of the power held by spatial data is our responsibility and it concerns all of us in order to be resilient partners in the not-so-far future. <br />
-Learn about spatial data applications and geographic information system (GIS) during the GeoDay organized by Novia [spatial competence centre](https://www.novia.fi/en/scc/).    
+
+Learn about spatial data applications and geographic information system (GIS) during the GeoDay organized by Novia [spatial competence centre](https://www.novia.fi/en/scc/).<br />
 
 ## Venue
 On [Campus Raseborg](https://maps.app.goo.gl/dwzLH9y1yt7LfucQ9)
@@ -15,7 +16,7 @@ On [Campus Raseborg](https://maps.app.goo.gl/dwzLH9y1yt7LfucQ9)
 09:00 - 10:20 Spatial data in environment and structural engineering <br />
 + 9:00 - Agriculture with XXX
 + 9:15 - Forestry with Romi Rancken - Novia UAS - Case Västerby 
-+ 9:30 - Environmental sampling with Nicolas-Xavier Geilfus - University of Helsinki - XXX<br />
++ 9:30 - Environmental sampling with Nicolas-Xavier Geilfus - University of Helsinki - XXX
 + 9:45 - BIM with Anders Hermund - Royal Danish Academy - XXX
 + 10:00 - BIS with Henrik Saari - SYKE - RYTHI - Built environment information system
   
