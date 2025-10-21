@@ -58,8 +58,8 @@ Session chair: XXX<br />
 
 ## Registration
 Please register following this link to book your spot and receive the Teams link to the talks:<br /> 
-<img width="345" height="336" alt="gis_day" src="https://github.com/user-attachments/assets/61bd574c-7539-44b5-adbd-e894f369da6f" />
+<img width="360" height="336" alt="gis_day" src="https://github.com/user-attachments/assets/61bd574c-7539-44b5-adbd-e894f369da6f" />
 
 ## Organizers
 Questions or inquiries: Aurelie Noel at scc@novia.fi
-<img width="780" height="180" alt="organizers" src="https://github.com/user-attachments/assets/3a94fef6-4113-4250-a8e8-416068fa0eef" />
+<img width="750" height="180" alt="organizers" src="https://github.com/user-attachments/assets/3a94fef6-4113-4250-a8e8-416068fa0eef" />
