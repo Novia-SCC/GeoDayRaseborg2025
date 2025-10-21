@@ -19,6 +19,7 @@ On [Campus Raseborg](https://maps.app.goo.gl/dwzLH9y1yt7LfucQ9), in the Atrium (
 Opening remarks by Marianne Fred, Head of Research in [bioeconomy](https://www.novia.fi/en/rdi/research-area/systemic-transformation-to-build-resilience)<br />
 
 09:00 - 10:20 Spatial data in environment and structural engineering <br />
+Session chair: XXX<br />
 + 9:00 - Agriculture with XXX
 + 9:15 - Forestry with [Romi Rancken](https://fi.linkedin.com/in/romi-rancken-187a9318) - Novia UAS - Case Västerby 
 + 9:30 - Environmental sampling with Nicolas-Xavier Geilfus - University of Helsinki - XXX
@@ -28,6 +29,7 @@ Opening remarks by Marianne Fred, Head of Research in [bioeconomy](https://www.n
 10:20 - 10:40 Coffee break<br />
 
 10:45 - 12:00 Spatial data in literally any other domains! <br />
+Session chair: XXX<br />
 + 10:45 - Seafaring with [Iiro Törmä](https://www.novia.fi/en/rdi/research-area/sustainable-shipping/our-experts/iiro-torma) - Novia UAS - 3D Briefing Tool for shipping (online)
 + 11:00 - AR with [Tobias Björkskog] (https://novialia.novia.fi/kolumner/vaasa-insider/tobias-bjorkskog-granslos-utbildning-inom-spelutveckling-borderless-game-academy-leder-vage) - Novia UAS - [Korsholmar AR](https://www.kulturosterbotten.fi/korsholmar) (online)
 + 11:15 - XXX - GISPO - Consulting with spatial data
