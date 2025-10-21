@@ -10,7 +10,7 @@ Learn about spatial data applications and geographic information system (GIS) du
 ## Venue
 On [Campus Raseborg](https://maps.app.goo.gl/dwzLH9y1yt7LfucQ9), in the Atrium (follow the sign)
 
-## Program
+## Preliminary program
 
 + 8.15 - Start of the registration and coffee<br />
 
@@ -20,7 +20,7 @@ Opening remarks by Marianne Fred, Head of Research in [bioeconomy](https://www.n
 
 09:00 - 10:20 Spatial data in environment and structural engineering <br />
 Session chair: XXX<br />
-+ 9:00 - Agriculture with XXX
++ 9:00 - Agriculture with Kim Kaustell - LUKE - [Digital Innovation Hub for agriculture](https://www.luke.fi/en/digital-innovation-hub-for-agriculture)
 + 9:15 - Forestry with [Romi Rancken](https://fi.linkedin.com/in/romi-rancken-187a9318) - Novia UAS - Case Västerby 
 + 9:30 - Environmental sampling with Nicolas-Xavier Geilfus - University of Helsinki - XXX
 + 9:45 - BIM with Anders Hermund - Royal Danish Academy - XXX
