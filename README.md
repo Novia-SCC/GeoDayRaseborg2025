@@ -3,36 +3,41 @@ The wonderful world of spatial information <br />
 November 20th 2025
 > Come for the program, stay for the people
 
-Spatial data are now collected by anyone, from anywhere, in real time, shared to the world via social media and cloud services and used almost instantaneously by anybody else. This creates a plethora of opportunities such as virtual reality and the building of digital twins designing an entire space from the comfort of your chair, or automation of tasks with artificial intelligence deciding where and when to seed your oat field in the spring. But it also brings challenges linked to privacy and ethical guidelines, as we now can be anywhere and see everything through others that share anything, all the time - what can be trusted? In August 2025, Tim Walz, Governor for the State of Minnesota, USA mentioned during a plenary session about effective governance - “You (decision-makers) are creating change in a massive way” – “We have got to get the literacy on geographic and GIS out to the broader public so that we can make sure that that (effective governance) happens.” Spreading awareness of the power held by spatial data is our responsibility and it concerns all of us in order to be resilient partners in the not-so-far future. <br />
+*Spatial data are now collected by anyone, from anywhere, in real time, shared to the world via social media and cloud services and used almost instantaneously by anybody else. This creates a plethora of opportunities such as virtual reality and the building of digital twins designing an entire space from the comfort of your chair, or automation of tasks with artificial intelligence deciding where and when to seed your oat field in the spring. But it also brings challenges linked to privacy and ethical guidelines, as we now can be anywhere and see everything through others that share anything, all the time - what can be trusted? In August 2025, Tim Walz, Governor for the State of Minnesota, USA mentioned during a plenary session about effective governance - “You (decision-makers) are creating change in a massive way” – “We have got to get the literacy on geographic and GIS out to the broader public so that we can make sure that that (effective governance) happens.” Spreading awareness of the power held by spatial data is our responsibility and it concerns all of us in order to be resilient partners in the not-so-far future.* <br />
 
-Learn about spatial data applications and geographic information system (GIS) during the GeoDay organized by Novia [spatial competence centre](https://www.novia.fi/en/scc/).<br />
+Learn about spatial data applications and geographic information system (GIS) during the hybrid GeoDay organized by Novia [spatial competence centre](https://www.novia.fi/en/scc/).<br />
 
 ## Venue
-On [Campus Raseborg](https://maps.app.goo.gl/dwzLH9y1yt7LfucQ9)
+On [Campus Raseborg](https://maps.app.goo.gl/dwzLH9y1yt7LfucQ9), in the Atrium (follow the sign)
 
-## Schedule
+## Program
 
-### 09:00 - 12:00 Guest lectures in English
++ 8.15 - Start of the registration and coffee (included)<br />
+
+### 09:00 - 12:00 Guest talks in English
+
+Opening remarks by Marianne Fred, Head of Research in [bioeconomy](https://www.novia.fi/en/rdi/research-area/systemic-transformation-to-build-resilience)<br />
+
 09:00 - 10:20 Spatial data in environment and structural engineering <br />
 + 9:00 - Agriculture with XXX
-+ 9:15 - Forestry with Romi Rancken - Novia UAS - Case Västerby 
++ 9:15 - Forestry with [Romi Rancken](https://fi.linkedin.com/in/romi-rancken-187a9318) - Novia UAS - Case Västerby 
 + 9:30 - Environmental sampling with Nicolas-Xavier Geilfus - University of Helsinki - XXX
 + 9:45 - BIM with Anders Hermund - Royal Danish Academy - XXX
-+ 10:00 - BIS with Henrik Saari - SYKE - RYTHI - Built environment information system
++ 10:00 - BIS with Henrik Saari - SYKE - RYTHI - Built environment information system (online)
   
 10:20 - 10:40 Coffee break (included) <br />
 
 10:45 - 12:00 Spatial data in literally any other domains! <br />
-+ 10:45 - Seafaring with Iiro Törmä - Novia UAS - 3D Briefing Tool for shipping
-+ 11:00 - AR with Tobias Björkskog - Novia UAS - XXX
++ 10:45 - Seafaring with [Iiro Törmä](https://www.novia.fi/en/rdi/research-area/sustainable-shipping/our-experts/iiro-torma) - Novia UAS - 3D Briefing Tool for shipping (online)
++ 11:00 - AR with [Tobias Björkskog] (https://novialia.novia.fi/kolumner/vaasa-insider/tobias-bjorkskog-granslos-utbildning-inom-spelutveckling-borderless-game-academy-leder-vage) - Novia UAS - [Korsholmar AR](https://www.kulturosterbotten.fi/korsholmar) (online)
 + 11:15 - XXX - GISPO - Consulting with spatial data
 + 11:30 - Faris Alsuhail- Location Innovation Hub - Continuous education with spatial data
-+ 11:45 - Lena Hallin-Pihlatie - National Land Survey    - National spatial data provider: data production and applications
++ 11:45 - Lena Hallin-Pihlatie - National Land Survey - National spatial data provider: data production and applications
 
 12:00 - 13:00 Lunch break (not included but great places near-by: [Villa Smakhus](https://www.villasmakhus.fi/sv/), [Rastachef](https://www.facebook.com/rastachefvegetariankitchen/) or [Cafferie](https://www.facebook.com/cafferieekenas/?locale=fi_FI))<br />
   
 ### 13:00 - 14:00 Geospatial systems students seminar in English<br />
-+ 13:00 - Aurelie Noel - Opening statement - Geospatial systems team leader
++ 13:00 - [Aurelie Noel](https://www.novia.fi/en/rdi/research-area/systemic-transformation-to-build-resilience/rdi-team/aurelie-noel) - Opening talk - Geospatial systems team leader
 + 13:15 - Senuri Ambagalage - Environmental monitoring with bird surveys - Bachelor in [Sustainable Coastal Management](https://www.novia.fi/en/study/study/bioeconomy/bachelor-of-natural-resources-sustainable-coastal-management/) 
 + 13:30 - Andreas Otterbeck - Habitat modelling of Caspian terns - [Researcher](https://www.novia.fi/en/rdi/our-projects/predatorhanteringens-inverkan-pa-havsfaglar-i-ostersjon) 
 + 13:45 - Frederik Björkvall - VLOS drone app - Engineer in [Surveying technologies](https://www.novia.fi/utbildning/utbildningsutbud/teknik-och-sjofart/ingenjor-yh-lantmateriteknik)
@@ -49,7 +54,9 @@ On [Campus Raseborg](https://maps.app.goo.gl/dwzLH9y1yt7LfucQ9)
 > In a time of accelerated changes, “geography needs to be promoted for sustainability” (Fu, 2020) and resilience – we know it, now you will too.
 
 ## Registration
+Please register following this link to book your spot and receive the Teams link to the talks: 
 <img width="345" height="336" alt="gis_day" src="https://github.com/user-attachments/assets/61bd574c-7539-44b5-adbd-e894f369da6f" />
 
 ## Organizers
+Questions or inquiries: Aurelie Noel at scc@novia.fi
 <img width="780" height="180" alt="organizers" src="https://github.com/user-attachments/assets/3a94fef6-4113-4250-a8e8-416068fa0eef" />
