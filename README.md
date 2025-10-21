@@ -32,7 +32,7 @@ Session chair: XXX<br />
 Session chair: XXX<br />
 + 10:45 - Seafaring with [Iiro Törmä](https://www.novia.fi/en/rdi/research-area/sustainable-shipping/our-experts/iiro-torma) - Novia UAS - 3D Briefing Tool for shipping (online)
 + 11:00 - AR with [Tobias Björkskog] (https://novialia.novia.fi/kolumner/vaasa-insider/tobias-bjorkskog-granslos-utbildning-inom-spelutveckling-borderless-game-academy-leder-vage) - Novia UAS - [Korsholmar AR](https://www.kulturosterbotten.fi/korsholmar) (online)
-+ 11:15 - XXX - GISPO - Consulting with spatial data
++ 11:15 - Emil Ehnström - GISPO - Consulting with open source GIS
 + 11:30 - Faris Alsuhail- Location Innovation Hub - Continuous education with spatial data
 + 11:45 - Lena Hallin-Pihlatie - National Land Survey - National spatial data provider: data production and applications
 
