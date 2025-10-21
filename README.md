@@ -36,7 +36,8 @@ Session chair: XXX<br />
 + 11:30 - Faris Alsuhail- Location Innovation Hub - Continuous education with spatial data
 + 11:45 - Lena Hallin-Pihlatie - National Land Survey - National spatial data provider: data production and applications
 
-12:00 - 13:00 Lunch break (not included but great places near-by: [Villa Smakhus](https://www.villasmakhus.fi/sv/), [Rastachef](https://www.facebook.com/rastachefvegetariankitchen/) or [Cafferie](https://www.facebook.com/cafferieekenas/?locale=fi_FI))<br />
+### 12:00 - 13:00 Lunch break <br />
+(not included but great places near-by: [Villa Smakhus](https://www.villasmakhus.fi/sv/), [Rastachef](https://www.facebook.com/rastachefvegetariankitchen/) or [Cafferie](https://www.facebook.com/cafferieekenas/?locale=fi_FI))<br />
   
 ### 13:00 - 14:00 Geospatial systems students seminar in English<br />
 + 13:00 - [Aurelie Noel](https://www.novia.fi/en/rdi/research-area/systemic-transformation-to-build-resilience/rdi-team/aurelie-noel) - Opening talk - Geospatial systems team leader
