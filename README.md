@@ -1,7 +1,7 @@
 # Welcome to GeoDay Raseborg 2025
 The wonderful world of spatial information <br />
 November 20th 2025
-> Come for the program, stay for the people
+> Come for the program, stay for the people (also the event is free and coffee included!)
 
 *Spatial data are now collected by anyone, from anywhere, in real time, shared to the world via social media and cloud services and used almost instantaneously by anybody else. This creates a plethora of opportunities such as virtual reality and the building of digital twins designing an entire space from the comfort of your chair, or automation of tasks with artificial intelligence deciding where and when to seed your oat field in the spring. But it also brings challenges linked to privacy and ethical guidelines, as we now can be anywhere and see everything through others that share anything, all the time - what can be trusted? In August 2025, Tim Walz, Governor for the State of Minnesota, USA mentioned during a plenary session about effective governance - “You (decision-makers) are creating change in a massive way” – “We have got to get the literacy on geographic and GIS out to the broader public so that we can make sure that that (effective governance) happens.” Spreading awareness of the power held by spatial data is our responsibility and it concerns all of us in order to be resilient partners in the not-so-far future.* <br />
 
@@ -12,7 +12,7 @@ On [Campus Raseborg](https://maps.app.goo.gl/dwzLH9y1yt7LfucQ9), in the Atrium (
 
 ## Program
 
-+ 8.15 - Start of the registration and coffee (included)<br />
++ 8.15 - Start of the registration and coffee<br />
 
 ### 09:00 - 12:00 Guest talks in English
 
@@ -25,7 +25,7 @@ Opening remarks by Marianne Fred, Head of Research in [bioeconomy](https://www.n
 + 9:45 - BIM with Anders Hermund - Royal Danish Academy - XXX
 + 10:00 - BIS with Henrik Saari - SYKE - RYTHI - Built environment information system (online)
   
-10:20 - 10:40 Coffee break (included) <br />
+10:20 - 10:40 Coffee break<br />
 
 10:45 - 12:00 Spatial data in literally any other domains! <br />
 + 10:45 - Seafaring with [Iiro Törmä](https://www.novia.fi/en/rdi/research-area/sustainable-shipping/our-experts/iiro-torma) - Novia UAS - 3D Briefing Tool for shipping (online)
