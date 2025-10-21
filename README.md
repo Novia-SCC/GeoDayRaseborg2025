@@ -16,7 +16,7 @@ On [Campus Raseborg](https://maps.app.goo.gl/dwzLH9y1yt7LfucQ9), in the Atrium (
 
 ### 09:00 - 12:00 Guest talks in English
 
-Opening remarks by Marianne Fred, Head of Research in [bioeconomy](https://www.novia.fi/en/rdi/research-area/systemic-transformation-to-build-resilience)<br />
+Welcoming address by Marianne Fred, Head of Research in [bioeconomy](https://www.novia.fi/en/rdi/research-area/systemic-transformation-to-build-resilience)<br />
 
 09:00 - 10:20 Spatial data in environment and structural engineering <br />
 Session chair: XXX<br />
