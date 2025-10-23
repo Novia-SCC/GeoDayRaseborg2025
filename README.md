@@ -32,9 +32,9 @@ Session chair: XXX<br />
 Session chair: XXX<br />
 + 10:45 - Seafaring with [Iiro Törmä](https://www.novia.fi/en/rdi/research-area/sustainable-shipping/our-experts/iiro-torma) - Novia UAS - 3D Briefing Tool for shipping (online)
 + 11:00 - AR with [Tobias Björkskog] (https://novialia.novia.fi/kolumner/vaasa-insider/tobias-bjorkskog-granslos-utbildning-inom-spelutveckling-borderless-game-academy-leder-vage) - Novia UAS - [Korsholmar AR](https://www.kulturosterbotten.fi/korsholmar) (online)
-+ 11:15 - Emil Ehnström - GISPO - Consulting with open source GIS
-+ 11:30 - Faris Alsuhail- Location Innovation Hub - Continuous education with spatial data
-+ 11:45 - Lena Hallin-Pihlatie - National Land Survey - National spatial data provider: data production and applications
++ 11:15 - Emil Ehnström - GISPO - Consulting with open source GIS (on site)
++ 11:30 - Faris Alsuhail- Location Innovation Hub - Continuous education with spatial data (on site)
++ 11:45 - Lena Hallin-Pihlatie - National Land Survey - National spatial data provider: data production and applications (on site)
 
 ### 12:00 - 13:00 Lunch break <br />
 (not included but great places near-by: [Villa Smakhus](https://www.villasmakhus.fi/sv/), [Rastachef](https://www.facebook.com/rastachefvegetariankitchen/) or [Cafferie](https://www.facebook.com/cafferieekenas/?locale=fi_FI))<br />
@@ -49,7 +49,7 @@ Session chair: XXX<br />
 + How to pilot a drone - UAV, USV, ROV
 + How to track animals
 + How to collect data
-+ Geocaching and wayfinding (and badges to win!)
++ Geocaching and wayfinding
 + Exhibition of old maps from Ekenäs
 + Exhibition of old surveying tools
 + Posters about spatial data in use in our programs
