@@ -51,7 +51,6 @@ Session chair: XXX<br />
 + How to collect data
 + Geocaching and wayfinding
 + Exhibition of old maps from Ekenäs
-+ Exhibition of old surveying tools
 + Posters about spatial data in use in our programs
 
 > In a time of accelerated changes, “geography needs to be promoted for sustainability” (Fu, 2020) and resilience – we know it, now you will too.
