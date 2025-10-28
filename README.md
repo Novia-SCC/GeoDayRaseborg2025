@@ -62,7 +62,8 @@ Session chair: *TBD*<br />
 > In a time of accelerated changes, “geography needs to be promoted for sustainability” (Fu, 2020) and resilience – we know it, now you will too.
 
 ## Registration
-Please register using this [link](https://network.novia.fi/Events/348/Apply) to book your spot and receive the Teams link to the talks<br /> 
+Please register using this [link](https://network.novia.fi/Events/348/Apply) to book your spot on site and/or receive the Teams link to the talks<br /> 
+<br />
 <img width="360" height="336" alt="gis_day" src="https://github.com/user-attachments/assets/61bd574c-7539-44b5-adbd-e894f369da6f" />
 
 ## Organizers
