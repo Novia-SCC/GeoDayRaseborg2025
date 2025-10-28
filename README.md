@@ -27,7 +27,7 @@ Introduction of the Spatial Competence Centre by Aurelie Noel, [Geospatial syste
 Session chair: *TBD*<br />
 + 9:00 - Agriculture with Kim Kaustell - LUKE - [Digital Innovation Hub for agriculture](https://www.luke.fi/en/digital-innovation-hub-for-agriculture)
 + 9:15 - Forestry with [Romi Rancken](https://fi.linkedin.com/in/romi-rancken-187a9318) - Novia UAS (on site)
-+ 9:30 - People-nature relationship through GIS with Ruslan Gunko - Novia UAS (on site)
++ 9:30 - People-nature relationship through GIS with [Ruslan Gunko](https://www.novia.fi/en/rdi/research-area/transformative-pathways-in-bioeconomy/rdi-team/ruslan-gunko/) - Novia UAS (on site)
 + 9:45 - Building information modelling (BIM) with Anders Hermund - Royal Danish Academy (online)
 + 10:00 - Building information system (BIS) with Henrik Saari - SYKE (online)
   
