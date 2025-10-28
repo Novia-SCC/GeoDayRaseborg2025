@@ -5,6 +5,8 @@ November 20th 2025
 
 *Spatial data are now collected by anyone, from anywhere, in real time, shared to the world via social media and cloud services and used almost instantaneously by anybody else. This creates a plethora of opportunities such as virtual reality and the building of digital twins designing an entire space from the comfort of your chair, or automation of tasks with artificial intelligence deciding where and when to seed your oat field in the spring. But it also brings challenges linked to privacy and ethical guidelines, as we now can be anywhere and see everything through others that share anything, all the time - what can be trusted? In August 2025, Tim Walz, Governor for the State of Minnesota, USA mentioned during a plenary session about effective governance - “You (decision-makers) are creating change in a massive way” – “We have got to get the literacy on geographic and GIS out to the broader public so that we can make sure that that (effective governance) happens.” Spreading awareness of the power held by spatial data is our responsibility and it concerns all of us in order to be resilient partners in the not-so-far future.* <br />
 
+This event is part of a global initiative for [spatial literacy](https://www.gisday.com/en-us/overview)
+
 Learn about spatial data applications and geographic information system (GIS) during the hybrid GeoDay organized by Novia [spatial competence centre](https://www.novia.fi/en/scc/).<br />
 
 ## Venue
