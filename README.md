@@ -12,7 +12,7 @@ On [Campus Raseborg](https://maps.app.goo.gl/dwzLH9y1yt7LfucQ9), in the Atrium (
 
 ## Preliminary program
 
-+ 8.15 - Start of the registration and coffee<br />
++ 8.30 - Start of the day<br />
 
 ### 09:00 - 12:00 Guest talks in English
 
