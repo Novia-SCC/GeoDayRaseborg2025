@@ -20,20 +20,20 @@ On [Campus Raseborg](https://maps.app.goo.gl/dwzLH9y1yt7LfucQ9), in the Atrium (
 
 Welcoming address by Marianne Fred, Head of Research in [bioeconomy](https://www.novia.fi/en/rdi/research-area/systemic-transformation-to-build-resilience)<br />
 
-09:00 - 10:20 Spatial data in environment and structural engineering <br />
-Session chair: XXX<br />
-+ 9:00 - Agriculture with Kim Kaustell - LUKE - [Digital Innovation Hub for agriculture](https://www.luke.fi/en/digital-innovation-hub-for-agriculture)
-+ 9:15 - Forestry with [Romi Rancken](https://fi.linkedin.com/in/romi-rancken-187a9318) - Novia UAS - Case Västerby 
-+ 9:30 - Environmental sampling with Nicolas-Xavier Geilfus - University of Helsinki - XXX
-+ 9:45 - BIM with Anders Hermund - Royal Danish Academy - XXX
+09:00 - 10:20 Spatial data in environment and construction engineering <br />
+Session chair: *TBD*<br />
++ 9:00 - Agriculture with Kim Kaustell - LUKE - [Digital Innovation Hub for agriculture](https://www.luke.fi/en/digital-innovation-hub-for-agriculture) - *title TBD*
++ 9:15 - Forestry with [Romi Rancken](https://fi.linkedin.com/in/romi-rancken-187a9318) - Novia UAS - Case Västerby (on site)
++ 9:30 - People-nature relationship through GIS with Ruslan Gunko - Novia UAS - *title TBD* (on site)
++ 9:45 - BIM with Anders Hermund - Royal Danish Academy - *title TBD* (online)
 + 10:00 - BIS with Henrik Saari - SYKE - RYTHI - Built environment information system (online)
   
 10:20 - 10:40 Coffee break<br />
 
 10:45 - 12:00 Spatial data in literally any other domains! <br />
-Session chair: XXX<br />
+Session chair: *TBD*<br />
 + 10:45 - Seafaring with [Iiro Törmä](https://www.novia.fi/en/rdi/research-area/sustainable-shipping/our-experts/iiro-torma) - Novia UAS - 3D Briefing Tool for shipping (online)
-+ 11:00 - AR with [Tobias Björkskog] (https://novialia.novia.fi/kolumner/vaasa-insider/tobias-bjorkskog-granslos-utbildning-inom-spelutveckling-borderless-game-academy-leder-vage) - Novia UAS - [Korsholmar AR](https://www.kulturosterbotten.fi/korsholmar) (online)
++ 11:00 - AR with [Tobias Björkskog](https://novialia.novia.fi/kolumner/vaasa-insider/tobias-bjorkskog-granslos-utbildning-inom-spelutveckling-borderless-game-academy-leder-vage) - Novia UAS - [Korsholmar AR](https://www.kulturosterbotten.fi/korsholmar) (online)
 + 11:15 - Emil Ehnström - GISPO - Consulting with open source GIS (online)
 + 11:30 - Faris Alsuhail- Location Innovation Hub - Continuous education with spatial data (on site)
 + 11:45 - Lena Hallin-Pihlatie - National Land Survey - National spatial data provider: data production and applications (on site)
