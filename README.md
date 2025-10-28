@@ -49,7 +49,7 @@ Session chair: *TBD*<br />
 + 13:10 - Senuri Ambagalage - Environmental monitoring with bird surveys - Bachelor student in [Sustainable Coastal Management](https://www.novia.fi/en/study/study/bioeconomy/bachelor-of-natural-resources-sustainable-coastal-management/) 
 + 13:25 - Andreas Otterbeck - Habitat modelling of Caspian terns - [Researcher](https://www.novia.fi/en/rdi/our-projects/predatorhanteringens-inverkan-pa-havsfaglar-i-ostersjon)
 + 13:35 - Chanika Jayawardana - Marine Spatial Planning - Bachelor student in [Sustainable Coastal Management](https://www.novia.fi/en/study/study/bioeconomy/bachelor-of-natural-resources-sustainable-coastal-management/) 
-+ 13:45 - Frederik Björkvall - VLOS drone app - Engineer in [Surveying technologies](https://www.novia.fi/utbildning/utbildningsutbud/teknik-och-sjofart/ingenjor-yh-lantmateriteknik)
++ 13:45 - Fredrik Björkvall - VLOS drone app - Engineer student in [Surveying technologies](https://www.novia.fi/utbildning/utbildningsutbud/teknik-och-sjofart/ingenjor-yh-lantmateriteknik)
 
 ### 09:00 - 15:30 Hands-on activities and demos in English and Swedish
 + How to pilot a drone - UAV, USV, ROV
