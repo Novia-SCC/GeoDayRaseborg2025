@@ -18,9 +18,10 @@ Learn about the numerous spatial data applications and geographic information sy
 
 + 8.30 - Start of the day<br />
 
-### 09:00 - 12:00 Guest talks in English
+### 08:45 - 12:00 Guest talks in English
 
 Welcoming address by Marianne Fred, Head of Research in [bioeconomy](https://www.novia.fi/en/rdi/research-area/systemic-transformation-to-build-resilience)<br />
+Introduction of the Spatial Competence Centre by Aurelie Noel, Geospatial systems team leader <br />
 
 09:00 - 10:20 Spatial data in environment and construction engineering <br />
 Session chair: *TBD*<br />
@@ -45,8 +46,8 @@ Session chair: *TBD*<br />
   
 ### 13:00 - 14:00 Geospatial systems students seminar in English<br />
 + 13:00 - [Aurelie Noel](https://www.novia.fi/en/rdi/research-area/systemic-transformation-to-build-resilience/rdi-team/aurelie-noel) - Opening talk - Geospatial systems team leader and presentation of the SCC
-+ 13:15 - Senuri Ambagalage - Environmental monitoring with bird surveys - Bachelor in [Sustainable Coastal Management](https://www.novia.fi/en/study/study/bioeconomy/bachelor-of-natural-resources-sustainable-coastal-management/) 
-+ 13:30 - Andreas Otterbeck - Habitat modelling of Caspian terns - [Researcher](https://www.novia.fi/en/rdi/our-projects/predatorhanteringens-inverkan-pa-havsfaglar-i-ostersjon) 
++ 13:15 - Senuri Ambagalage - Environmental monitoring with bird surveys - Bachelor student in [Sustainable Coastal Management](https://www.novia.fi/en/study/study/bioeconomy/bachelor-of-natural-resources-sustainable-coastal-management/) 
++ 13:30 - Andreas Otterbeck - Habitat modelling of Caspian terns - [Researcher](https://www.novia.fi/en/rdi/our-projects/predatorhanteringens-inverkan-pa-havsfaglar-i-ostersjon) or Chanika Jayawardana - Marine Spatial Planning - Bachelor student in [Sustainable Coastal Management](https://www.novia.fi/en/study/study/bioeconomy/bachelor-of-natural-resources-sustainable-coastal-management/) 
 + 13:45 - Frederik Björkvall - VLOS drone app - Engineer in [Surveying technologies](https://www.novia.fi/utbildning/utbildningsutbud/teknik-och-sjofart/ingenjor-yh-lantmateriteknik)
 
 ### 09:00 - 15:30 Hands-on activities and demos in English and Swedish
