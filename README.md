@@ -2,7 +2,7 @@
 The wonderful world of spatial information <br />
 
 ## Practicalities
-20.11.2025<br />
+**20.11.2025**<br />
 [Campus Raseborg](https://maps.app.goo.gl/dwzLH9y1yt7LfucQ9) (car parking on site or via [VR](https://www.vr.fi/) Karjaa-Tammisaari with 7.42  - 16.07 trains)
 > Come for the program, stay for the people (also the event is free and coffee included!)
 
