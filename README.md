@@ -21,7 +21,7 @@ Learn about the numerous spatial data applications and geographic information sy
 ### 08:45 - 12:00 Guest talks in English
 
 Welcoming address by Marianne Fred, Head of Research in [bioeconomy](https://www.novia.fi/en/rdi/research-area/systemic-transformation-to-build-resilience)<br />
-Introduction of the Spatial Competence Centre by Aurelie Noel, Geospatial systems team leader <br />
+Introduction of the Spatial Competence Centre by Aurelie Noel, [Geospatial systems team leader](https://www.novia.fi/en/rdi/research-area/transformative-pathways-in-bioeconomy/research-area-in-bioeconomy/geospatial-systems/) <br />
 
 09:00 - 10:20 Spatial data in environment and construction engineering <br />
 Session chair: *TBD*<br />
