@@ -7,7 +7,7 @@ November 20th 2025
 
 This event is part of a global initiative (ESRI GIS DAY) for [spatial literacy](https://www.gisday.com/en-us/overview).
 
-Learn about spatial data applications and geographic information system (GIS) during the hybrid GeoDay organized by Novia [spatial competence centre](https://www.novia.fi/en/scc/).<br />
+Learn about the numerous spatial data applications and geographic information system (GIS) during the hybrid GeoDay organized by Novia [spatial competence centre](https://www.novia.fi/en/scc/).<br />
 
 ## Venue
 On [Campus Raseborg](https://maps.app.goo.gl/dwzLH9y1yt7LfucQ9), in the Atrium (follow the sign)
