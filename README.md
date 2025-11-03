@@ -25,8 +25,8 @@ Introduction of the Spatial Competence Centre by Aurelie Noel, [Geospatial syste
 
 09:00 - 10:20 Spatial data in environment and construction engineering <br />
 Session chair: *TBD*<br />
-+ 9:00 - Agriculture with *TBD*
-+ 9:15 - Forestry with [Romi Rancken](https://fi.linkedin.com/in/romi-rancken-187a9318) - Novia UAS (on site)
++ 9:00 - Smart farming and [AgriHubi](https://maaseutuverkosto.fi/en/agrihubi/) with Liisa Pesonen - LUKE (online) 
++ 9:15 - Tech-forestry with [Romi Rancken](https://fi.linkedin.com/in/romi-rancken-187a9318) - Novia UAS (on site)
 + 9:30 - People-nature relationship through GIS with [Ruslan Gunko](https://www.novia.fi/en/rdi/research-area/transformative-pathways-in-bioeconomy/rdi-team/ruslan-gunko/) - Novia UAS (on site)
 + 9:45 - Building information modelling (BIM) with [Anders Hermund](https://royaldanishacademy.com/en/profile/840) - Royal Danish Academy (online)
 + 10:00 - Building information system (BIS) with [Henrik Saari](https://www.syke.fi/en/experts/henrik-saari) - SYKE (online)
@@ -48,7 +48,7 @@ Session chair: *TBD*<br />
 + 13:00 - [Aurelie Noel](https://www.novia.fi/en/rdi/research-area/systemic-transformation-to-build-resilience/rdi-team/aurelie-noel) - Opening talk - Geospatial systems team leader and presentation of the SCC
 + 13:10 - Senuri Ambagalage - Environmental monitoring with bird surveys - Bachelor student in [Sustainable Coastal Management](https://www.novia.fi/en/study/study/bioeconomy/bachelor-of-natural-resources-sustainable-coastal-management/) 
 + 13:25 - Andreas Otterbeck - Habitat modelling of Caspian terns - [Researcher](https://www.novia.fi/en/rdi/our-projects/predatorhanteringens-inverkan-pa-havsfaglar-i-ostersjon) (online)
-+ 13:35 - Chanika Jayawardana - Marine Spatial Planning - Bachelor student in [Sustainable Coastal Management](https://www.novia.fi/en/study/study/bioeconomy/bachelor-of-natural-resources-sustainable-coastal-management/) 
++ 13:35 - Marine Spatial Planning - Group of bachelor students in [Sustainable Coastal Management](https://www.novia.fi/en/study/study/bioeconomy/bachelor-of-natural-resources-sustainable-coastal-management/) 
 + 13:45 - Fredrik Björkvall - VLOS drone app - Engineer student in [Surveying technologies](https://www.novia.fi/utbildning/utbildningsutbud/teknik-och-sjofart/ingenjor-yh-lantmateriteknik)
 
 ### 09:00 - 15:30 Hands-on activities and demos in English and Swedish
