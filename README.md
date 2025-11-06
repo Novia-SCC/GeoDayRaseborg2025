@@ -25,7 +25,7 @@ Introduction of the Spatial Competence Centre by Aurelie Noel, [Geospatial syste
 
 09:00 - 10:20 Spatial data in environment and construction engineering <br />
 Session chair: *TBD*<br />
-+ 9:00 - Smart farming and [AgriHubi](https://maaseutuverkosto.fi/en/agrihubi/) with [Liisa Pesonen](https://www.luke.fi/fi/asiantuntijat/liisa-pesonen) - LUKE (online) 
++ 9:00 - Smart farming and [AgriHubi](https://maaseutuverkosto.fi/en/agrihubi/) with [Liisa Pesonen](https://www.luke.fi/fi/asiantuntijat/liisa-pesonen) - LUKE (on site) 
 + 9:15 - Tech-forestry with [Romi Rancken](https://fi.linkedin.com/in/romi-rancken-187a9318) - Novia UAS (on site)
 + 9:30 - People-nature relationship through GIS with [Ruslan Gunko](https://www.novia.fi/en/rdi/research-area/transformative-pathways-in-bioeconomy/rdi-team/ruslan-gunko/) - Novia UAS (on site)
 + 9:45 - Building information modelling (BIM) with [Anders Hermund](https://royaldanishacademy.com/en/profile/840) - Royal Danish Academy (online)
