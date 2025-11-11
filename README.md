@@ -51,13 +51,12 @@ Session chair: *TBD*<br />
 + 13:35 - Marine Spatial Planning - Group of bachelor students in [Sustainable Coastal Management](https://www.novia.fi/en/study/study/bioeconomy/bachelor-of-natural-resources-sustainable-coastal-management/) 
 + 13:45 - Fredrik Björkvall - VLOS drone app - Engineer student in [Surveying technologies](https://www.novia.fi/utbildning/utbildningsutbud/teknik-och-sjofart/ingenjor-yh-lantmateriteknik)
 
-### 09:00 - 15:30 Hands-on activities and demos in English and Swedish
-+ How to pilot a drone - UAV, USV, ROV
-+ How to track animals
-+ How to collect data
-+ Geocaching and wayfinding
+### 14:00 - 15:30 Hands-on activities and demos in English and Swedish
++ Poster presentations about spatial data in use in our programs
++ How to pilot a drone - UAV, USV
++ How to track animals - bird tracker and audiomoths
++ How to collect data - geocaching and wayfinding with three individual ARCGIS for personal use licences as prize (value 100$)
 + Exhibition of old maps from Ekenäs
-+ Posters about spatial data in use in our programs
 
 > In a time of accelerated changes, “geography needs to be promoted for sustainability” (Fu, 2020) and resilience – we know it, now you will too.
 
