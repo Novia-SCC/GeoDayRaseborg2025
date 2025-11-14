@@ -39,7 +39,7 @@ Session chair: *TBD*<br />
 + 11:00 - Augmented reality with [Tobias Björkskog](https://novialia.novia.fi/kolumner/vaasa-insider/tobias-bjorkskog-granslos-utbildning-inom-spelutveckling-borderless-game-academy-leder-vage) - Novia UAS - [Korsholmar AR](https://www.kulturosterbotten.fi/korsholmar) (online)
 + 11:15 - Consulting with [Emil Ehnström](https://fi.linkedin.com/in/emilehnstrom) - GISPO (online)
 + 11:30 - Continuous education with [Faris Alsuhail](https://fi.linkedin.com/in/farisalsuhail) - [Location Innovation Hub](https://locationinnovationhub.eu/en/activities/) (on site)
-+ 11:45 - National spatial data provider: data production and applications with [Lena Hallin-Pihlatie](https://fi.linkedin.com/in/lenahallinpihlatie) - National Land Survey (on site)
++ 11:45 - National spatial data provider: data production and applications with [Lena Hallin-Pihlatie](https://fi.linkedin.com/in/lenahallinpihlatie) - National Land Survey (online)
 
 ### 12:00 - 13:00 Lunch break <br />
 (not included but great places near-by: [Villa Smakhus](https://www.villasmakhus.fi/sv/), [Rastachef](https://www.facebook.com/rastachefvegetariankitchen/) or [Cafferie](https://www.facebook.com/cafferieekenas/?locale=fi_FI))<br />
