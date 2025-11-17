@@ -47,7 +47,7 @@ Session chair: *TBD*<br />
 ### 13:00 - 14:00 Geospatial systems students seminar in English<br />
 + 13:00 - [Aurelie Noel](https://www.novia.fi/en/rdi/research-area/systemic-transformation-to-build-resilience/rdi-team/aurelie-noel) - Opening talk - Geospatial systems team leader and presentation of the SCC
 + 13:10 - Senuri Ambagalage - Environmental monitoring with bird surveys - Bachelor student in [Sustainable Coastal Management](https://www.novia.fi/en/study/study/bioeconomy/bachelor-of-natural-resources-sustainable-coastal-management/) 
-+ 13:25 - Andreas Otterbeck - Habitat modelling of Caspian terns - [Researcher](https://www.novia.fi/en/rdi/our-projects/predatorhanteringens-inverkan-pa-havsfaglar-i-ostersjon) (online)
++ 13:25 - Andreas Otterbeck - GPS tracking of Caspian terns - [Researcher](https://www.novia.fi/en/rdi/our-projects/predatorhanteringens-inverkan-pa-havsfaglar-i-ostersjon) (online)
 + 13:35 - Marine Spatial Planning - Group of bachelor students in [Sustainable Coastal Management](https://www.novia.fi/en/study/study/bioeconomy/bachelor-of-natural-resources-sustainable-coastal-management/) 
 + 13:45 - Fredrik Björkvall - VLOS drone app - Engineer student in [Surveying technologies](https://www.novia.fi/utbildning/utbildningsutbud/teknik-och-sjofart/ingenjor-yh-lantmateriteknik)
 
@@ -55,7 +55,7 @@ Session chair: *TBD*<br />
 + Poster presentations about spatial data in use in our programs
 + How to pilot a drone - UAV, USV
 + How to track animals - bird tracker and audiomoths
-+ How to collect data - geocaching and wayfinding with three individual ARCGIS for personal use licences as prize (value 100$)
++ How to collect data - geocaching and wayfinding with two individual ARCGIS for personal use licences as prize (value 100$)
 + Exhibition of old maps from Ekenäs
 
 > In a time of accelerated changes, “geography needs to be promoted for sustainability” (Fu, 2020) and resilience – we know it, now you will too.
