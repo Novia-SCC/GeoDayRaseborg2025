@@ -38,7 +38,7 @@ Session chair: *TBD*<br />
 + 10:45 - 3D briefing tool for seafaring with [Iiro Törmä](https://www.novia.fi/en/rdi/research-area/sustainable-shipping/our-experts/iiro-torma) - Novia UAS (online)
 + 11:00 - Augmented reality with [Tobias Björkskog](https://novialia.novia.fi/kolumner/vaasa-insider/tobias-bjorkskog-granslos-utbildning-inom-spelutveckling-borderless-game-academy-leder-vage) - Novia UAS - [Korsholmar AR](https://www.kulturosterbotten.fi/korsholmar) (online)
 + 11:15 - Consulting with [Emil Ehnström](https://fi.linkedin.com/in/emilehnstrom) - GISPO (online)
-+ 11:30 - Locaiton Innovation Hub with [Faris Alsuhail](https://fi.linkedin.com/in/farisalsuhail) - [National Land Survey - LIH](https://locationinnovationhub.eu/en/activities/) (on site)
++ 11:30 - Location Innovation Hub with [Faris Alsuhail](https://fi.linkedin.com/in/farisalsuhail) - [National Land Survey - LIH](https://locationinnovationhub.eu/en/activities/) (on site)
 + 11:45 - National spatial data provider: data production and applications with [Lena Hallin-Pihlatie](https://fi.linkedin.com/in/lenahallinpihlatie) - National Land Survey (online)
 
 ### 12:00 - 13:00 Lunch break <br />
