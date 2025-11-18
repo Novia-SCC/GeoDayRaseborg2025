@@ -24,17 +24,15 @@ Welcoming address by Marianne Fred, Head of Research in [bioeconomy](https://www
 Introduction of the Spatial Competence Centre by Aurelie Noel, [Geospatial systems team leader](https://www.novia.fi/en/rdi/research-area/transformative-pathways-in-bioeconomy/research-area-in-bioeconomy/geospatial-systems/) <br />
 
 09:00 - 10:20 Spatial data in environment and construction engineering <br />
-Session chair: *TBD*<br />
 + 9:00 - Smart farming and [AgriHubi](https://maaseutuverkosto.fi/en/agrihubi/) with [Liisa Pesonen](https://www.luke.fi/fi/asiantuntijat/liisa-pesonen) - LUKE (on site) 
 + 9:15 - Tech-forestry with [Romi Rancken](https://fi.linkedin.com/in/romi-rancken-187a9318) - Novia UAS (on site)
-+ 9:30 - People-nature relationship through GIS with [Ruslan Gunko](https://www.novia.fi/en/rdi/research-area/transformative-pathways-in-bioeconomy/rdi-team/ruslan-gunko/) - Novia UAS (on site)
++ 9:30 - People-nature relationship through participatory GIS with [Ruslan Gunko](https://www.novia.fi/en/rdi/research-area/transformative-pathways-in-bioeconomy/rdi-team/ruslan-gunko/) - Novia UAS (on site)
 + 9:45 - Building information modelling (BIM) with [Anders Hermund](https://royaldanishacademy.com/en/profile/840) - Royal Danish Academy (online)
 + 10:00 - Building information system (BIS) with [Henrik Saari](https://www.syke.fi/en/experts/henrik-saari) - SYKE (online)
   
 10:20 - 10:40 Coffee break<br />
 
-10:45 - 12:00 Spatial data in literally any other domains! <br />
-Session chair: *TBD*<br />
+10:45 - 12:00 Spatial data in seafaring, art, consulting, education, national security <br />
 + 10:45 - 3D briefing tool for seafaring with [Iiro Törmä](https://www.novia.fi/en/rdi/research-area/sustainable-shipping/our-experts/iiro-torma) - Novia UAS (online)
 + 11:00 - Augmented reality with [Tobias Björkskog](https://novialia.novia.fi/kolumner/vaasa-insider/tobias-bjorkskog-granslos-utbildning-inom-spelutveckling-borderless-game-academy-leder-vage) - Novia UAS - [Korsholmar AR](https://www.kulturosterbotten.fi/korsholmar) (online)
 + 11:15 - Consulting with [Emil Ehnström](https://fi.linkedin.com/in/emilehnstrom) - GISPO (online)
@@ -42,7 +40,7 @@ Session chair: *TBD*<br />
 + 11:45 - National spatial data provider: data production and applications with [Lena Hallin-Pihlatie](https://fi.linkedin.com/in/lenahallinpihlatie) - National Land Survey (online)
 
 ### 12:00 - 13:00 Lunch break <br />
-(not included but great places near-by: [Villa Smakhus](https://www.villasmakhus.fi/sv/), [Rastachef](https://www.facebook.com/rastachefvegetariankitchen/) or [Cafferie](https://www.facebook.com/cafferieekenas/?locale=fi_FI))<br />
+(NOT INCLUDED but great places near-by: [Villa Smakhus](https://www.villasmakhus.fi/sv/), [Rastachef](https://www.facebook.com/rastachefvegetariankitchen/) or [Cafferie](https://www.facebook.com/cafferieekenas/?locale=fi_FI))<br />
   
 ### 13:00 - 14:00 Geospatial systems students seminar in English<br />
 + 13:00 - [Aurelie Noel](https://www.novia.fi/en/rdi/research-area/systemic-transformation-to-build-resilience/rdi-team/aurelie-noel) - Opening talk - Geospatial systems team leader and presentation of the SCC
