@@ -60,7 +60,7 @@ We had 33 participants online and 32 on site in the morning session, 19 in our s
 ![Hands-on](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/hands_on_18.jpg)
 ![Hands-on - Survey123 results](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/survey123.jpg)
 ![Ostrobothnia students](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/Ostrobothnia_students_13.jpg)
-![SCM students](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/proud_students.jpg)
+![SCM students](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/proud_students.JPG)
 
 ## Practicalities
 **20.11.2025**<br />
