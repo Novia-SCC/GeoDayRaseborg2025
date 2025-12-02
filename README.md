@@ -4,7 +4,7 @@ The wonderful world of spatial information <br />
 ## THANK YOU! 
 The GeoDay was a success! <br />
 <br />
-We had 33 participants online and 32 on site in the morning session, 19 in our students seminar and 45 in our hands-on session! Additionally to our presenters notably from GISPO, LUKE, SYKE, NSL, Novia UAS and even Royal Danish Academy, we had visitors from Nylands Svenska Lantbrukssällskap, Raseborg Energi, Raseborg Stad and students from Hangö and Ekenäs gymnasium (with teachers Axel Holmberg and Johanna von Frenckell). Also a big thank you to Västra Nyland museum and Lena Dahlberg for lending us the old maps of Ekenäs<br />
+We had 33 participants online and 32 on site in the morning session, 19 in our students seminar and 45 in our hands-on session! Additionally to our presenters notably from GISPO, LUKE, SYKE, NLS, Novia UAS and even Royal Danish Academy, we had visitors from Nylands Svenska Lantbrukssällskap, Raseborg Energi, Raseborg Stad and students from Hangö and Ekenäs gymnasium (with teachers Axel Holmberg and Johanna von Frenckell). Also a big thank you to Västra Nyland museum and Lena Dahlberg for lending us the old maps of Ekenäs<br />
 
 ## Gallery
 ### Morning session <br />
