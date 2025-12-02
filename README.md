@@ -9,6 +9,7 @@ We had 33 participants online and 32 on site in the morning session, 19 in our s
 ## Gallery
 
 
+
 ## Practicalities
 **20.11.2025**<br />
 [Novia University of Applied Sciences](https://www.novia.fi/en) on [campus Raseborg](https://maps.app.goo.gl/dwzLH9y1yt7LfucQ9) (car parking on site or via [VR](https://www.vr.fi/) Karjaa-Tammisaari with 7.42  - 16.07 trains)
