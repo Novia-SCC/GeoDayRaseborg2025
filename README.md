@@ -8,7 +8,7 @@ We had 33 participants online and 32 on site in the morning session, 19 in our s
 
 ## Gallery
 ### Morning session <br />
-<br />
+
 ![Liisa Pesonen](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/Liisa_pesonen_1.jpg)
 ![Liisa Pesonen](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/Liisa_pesonen_2.jpg)
 ![Liisa Pesonen](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/liisa_pesonen_3.jpg)
@@ -27,7 +27,7 @@ We had 33 participants online and 32 on site in the morning session, 19 in our s
 ![Lena Hallin Pihlatie](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/lena_hallin_pihlatie_2.jpg)
 
 ### Students seminar <br />
-<br />
+
 ![Senuri](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/senuri.jpg)
 ![Senuri](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/senuri_2.jpg)
 ![Chanika](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/chanika_2.jpg)
@@ -40,7 +40,7 @@ We had 33 participants online and 32 on site in the morning session, 19 in our s
 ![Fredrik](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/fredrik2.jpg)
 
 ### Hands-on<br />
-<br />
+
 ![Hands-on](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/hands_on_1.jpg)
 ![Hands-on](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/hands_on_2.jpg)
 ![Hands-on](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/hands_on_3.jpg)
