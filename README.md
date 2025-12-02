@@ -1,6 +1,14 @@
 # Welcome to GeoDay Raseborg 2025
 The wonderful world of spatial information <br />
 
+## THANK YOU! 
+The GeoDay was a success! <br />
+<br />
+We had 33 participants online and 32 on site in the morning session, 19 in our students seminar and 45 in our hands-on session! Additionnally to our presenters notably from GISPO, LUKE, SYKE, NSL, Novia UAS and even Royal Danish Academy, we had visitors from Nylands Svenska Lantbrukssällskap. Raseborg Energi, Raseborg Stad and students from Hangö and Ekenäs gymnasium (with teachers Axel Holmberg and Johanna von Frenckell). Also a big thank you to Västra Nyland museum and Lena Dahlberg for lending us the old maps of Ekenäs<br />
+
+## Gallery
+
+
 ## Practicalities
 **20.11.2025**<br />
 [Novia University of Applied Sciences](https://www.novia.fi/en) on [campus Raseborg](https://maps.app.goo.gl/dwzLH9y1yt7LfucQ9) (car parking on site or via [VR](https://www.vr.fi/) Karjaa-Tammisaari with 7.42  - 16.07 trains)
@@ -11,8 +19,6 @@ The wonderful world of spatial information <br />
 This event is part of a global initiative (ESRI GIS DAY) for [spatial literacy](https://www.gisday.com/en-us/overview).
 
 Learn about the numerous spatial data applications and geographic information system (GIS) during the hybrid GeoDay organized by Novia [spatial competence centre](https://www.novia.fi/en/scc/).<br />
-
-
 
 ## Preliminary program
 
@@ -28,7 +34,7 @@ Introduction of the Spatial Competence Centre by Aurelie Noel, [Geospatial syste
 + 9:15 - Tech-forestry with [Romi Rancken](https://fi.linkedin.com/in/romi-rancken-187a9318) - Novia UAS (on site)
 + 9:30 - Enhancing understanding: the role of spatial data as a tool in bridging environment and society with [Ruslan Gunko](https://www.novia.fi/en/rdi/research-area/transformative-pathways-in-bioeconomy/rdi-team/ruslan-gunko/) - Novia UAS (on site)
 + 9:45 - Building information modelling (BIM) with [Anders Hermund](https://royaldanishacademy.com/en/profile/840) - Royal Danish Academy (online)
-+ 10:00 - Building information system (BIS) with [Henrik Saari](https://www.syke.fi/en/experts/henrik-saari) - SYKE (online)
++ 10:00 - Built environment information system ([Ryhti](https://ryhti.syke.fi/en/)) with [Henrik Saari](https://www.syke.fi/en/experts/henrik-saari) - SYKE (online)
   
 10:20 - 10:40 Coffee break<br />
 
@@ -37,7 +43,7 @@ Introduction of the Spatial Competence Centre by Aurelie Noel, [Geospatial syste
 + 11:00 - Augmented reality with [Tobias Björkskog](https://novialia.novia.fi/kolumner/vaasa-insider/tobias-bjorkskog-granslos-utbildning-inom-spelutveckling-borderless-game-academy-leder-vage) - Novia UAS - [Korsholmar AR](https://www.kulturosterbotten.fi/korsholmar) (online)
 + 11:15 - Consulting with [Emil Ehnström](https://fi.linkedin.com/in/emilehnstrom) - GISPO (online)
 + 11:30 - Location Innovation Hub with [Faris Alsuhail](https://fi.linkedin.com/in/farisalsuhail) - [National Land Survey - LIH](https://locationinnovationhub.eu/en/activities/) (on site)
-+ 11:45 - National spatial data provider: data production and applications with [Lena Hallin-Pihlatie](https://fi.linkedin.com/in/lenahallinpihlatie) - National Land Survey (online)
++ 11:45 - Spatial data production and information services of National Land Survey of Finland (NLS-FI) with [Lena Hallin-Pihlatie](https://fi.linkedin.com/in/lenahallinpihlatie) - National Land Survey (online)
 
 ### 12:00 - 13:00 Lunch break <br />
 (NOT INCLUDED but great places near-by: [Villa Smakhus](https://www.villasmakhus.fi/sv/), [Rastachef](https://www.facebook.com/rastachefvegetariankitchen/) or [Cafferie](https://www.facebook.com/cafferieekenas/?locale=fi_FI))<br />
