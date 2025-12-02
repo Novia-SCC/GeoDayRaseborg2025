@@ -7,8 +7,57 @@ The GeoDay was a success! <br />
 We had 33 participants online and 32 on site in the morning session, 19 in our students seminar and 45 in our hands-on session! Additionally to our presenters notably from GISPO, LUKE, SYKE, NSL, Novia UAS and even Royal Danish Academy, we had visitors from Nylands Svenska Lantbrukssällskap, Raseborg Energi, Raseborg Stad and students from Hangö and Ekenäs gymnasium (with teachers Axel Holmberg and Johanna von Frenckell). Also a big thank you to Västra Nyland museum and Lena Dahlberg for lending us the old maps of Ekenäs<br />
 
 ## Gallery
+Morning session <br />
+![Liisa Pesonen](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/Liisa_pesonen_1.jpg)
+![Liisa Pesonen](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/Liisa_pesonen_2.jpg)
+![Liisa Pesonen](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/liisa_pesonen_3.jpg)
+![Ruslan Gunko](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/Ruslan_gunko.jpg)
+![Anders Hermund](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/Anders_hermund.jpg)
+![Henrik Saari](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/Henrik_saari.jpg)
+![Henrik Saari](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/henrik_saari_2.jpg)
+![Hangö students](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/Hango_students.jpg)
+![Iiro Törmä](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/iiro_thorma.jpg)
+![Attendance](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/attendance_iiro_torma.jpg)
+![Faris Alsuhail](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/faris_alsuhail_1.jpg)
+![Faris Alsuhail](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/faris_alsuhail_2.jpg)
+![Faris Alsuhail](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/faris_alsuhail_3.jpg)
+![Faris Alsuhail](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/faris_alsuhail_4.jpg)
+![Lena Hallin Pihlatie](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/lena_hallin_pihlatie.jpg)
+![Lena Hallin Pihlatie](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/lena_hallin_pihlatie_2.jpg)
 
+Students seminar <br />
+![Senuri](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/senuri.jpg)
+![Senuri](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/senuri_2.jpg)
+![Chanika](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/chanika_2.jpg)
+![Chanika and Chamika](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/chanika_chamika.jpg)
+![Chamika](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/chamika_2.jpg)
+![Chamika](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/chamika3.jpg)
+![Attendance](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/attendance_seminar.jpg)
+![Attendance](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/attendance_seminar_2.jpg)
+![Fredrik](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/fredrik.jpg)
+![Fredrik](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/fredrik2.jpg)
 
+Hands-on<br />
+![Hands-on](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/hands_on_1.jpg)
+![Hands-on](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/hands_on_2.jpg)
+![Hands-on](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/hands_on_3.jpg)
+![Hands-on](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/hands_on_4.jpg)
+![Hands-on](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/hands_on_5.jpg)
+![Hands-on](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/hands_on_6.jpg)
+![Hands-on](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/hands_on_7.jpg)
+![Hands-on](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/hands_on_8.jpg)
+![Hands-on](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/hands_on_9.jpg)
+![Hands-on](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/hands_on_10.jpg)
+![Hands-on](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/hands_on_11.jpg)
+![Hands-on](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/hands_on_12.jpg)
+![Hands-on](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/hands_on_13.jpg)
+![Hands-on](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/hands_on_14.jpg)
+![Hands-on](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/hands_on_15.jpg)
+![Hands-on](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/hands_on_16.jpg)
+![Hands-on](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/hands_on_17.jpg)
+![Hands-on](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/hands_on_18.jpg)
+![Ostrobothnia students](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/Ostrobothnia_students_2.jpg)
+![Ostrobothnia students](https://github.com/Novia-SCC/GeoDayRaseborg2025/blob/main/Ostrobothnia_students_13.jpg)
 
 ## Practicalities
 **20.11.2025**<br />
